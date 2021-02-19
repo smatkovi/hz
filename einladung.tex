@@ -2,8 +2,9 @@
 \pagenumbering{gobble}
 \usepackage{xcolor}
 \addtolength{\oddsidemargin}{-.5in}
-\addtolength{\topmargin}{-1.78in}
+\addtolength{\topmargin}{-1.00in}
 
+\usepackage{float}
 \usepackage{graphicx}
 \usepackage{tgbonum}
 \pagecolor{black}
@@ -11,16 +12,17 @@
 
 \begin{document}
 \noindent
-\begin{figure}
-\makebox[0pt][l]{
-\hspace*{-0.2in}
-  \raisebox{-\totalheight}[0pt][0pt]{
-    \includegraphics[scale=0.585]{liane.png}}}
-\end{figure}
-\\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ 
+%\\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ 
 {\fontfamily{pcr}\selectfont
 \lbrack Gast@Hochzeit \textasciitilde\rbrack\$ cat Hochzeit\_Miriam\_Sebastian.txt
 Wir, Miriam und Sebastian, freuen uns Dich hiermit zu unserer Hochzeit am Donnerstag den 22.07.2021 um 15:00 UTC+2 auf der Gjaidalm einzuladen. Bitte teile uns baldigst mit, ob Du dabei sein möchtest.\\ lg(Miriam und Sebastian) \\
 \lbrack Gast@Hochzeit \textasciitilde\rbrack\$\\
 }
+\vspace*{-10px}
+\begin{figure}[H]
+\makebox[0pt][l]{
+\hspace*{-0.5in}
+  \raisebox{-\totalheight}[0pt][0pt]{
+    \includegraphics[scale=0.600]{enzianViolett.png}}}
+\end{figure}
 \end{document}
