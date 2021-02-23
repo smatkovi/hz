@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Arch Linux) (preloaded format=pdflatex 2021.2.9)  23 FEB 2021 12:31
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Arch Linux) (preloaded format=pdflatex 2021.2.9)  23 FEB 2021 12:46
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -633,24 +633,24 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.66  \verb!28   ┊
+l.67  \verb!29   ┊
                      !\orange{\textbackslash includegraphics}\purple{\lbrack...
 
 ? 
 
-Underfull \hbox (badness 10000) in paragraph at lines 35--71
+Underfull \hbox (badness 10000) in paragraph at lines 35--72
 
  []
 
 
-Overfull \hbox (12.52495pt too wide) in paragraph at lines 35--71
+Overfull \hbox (12.52495pt too wide) in paragraph at lines 35--72
 [] \OT1/cmtt/m/n/12 1 [][]\OMS/cmsy/m/n/12 n\OT1/pcr/m/n/12 documentclass[][][[
 ][]12pt, a5paper[][]]\OMS/cmsy/m/n/12 f\OT1/pcr/m/n/12 article\OMS/cmsy/m/n/12 
 g[] 
  []
 
 
-Overfull \hbox (53.55003pt too wide) in paragraph at lines 35--71
+Overfull \hbox (53.55003pt too wide) in paragraph at lines 35--72
 [][]\OT1/cmtt/m/n/12 16 [][]\OMS/cmsy/m/n/12 n\OT1/pcr/m/n/12 lbrack[][] []\OT1
 /cmtt/m/n/12 Gast@Hochzeit [][]\OMS/cmsy/m/n/12 n\OT1/pcr/m/n/12 textasciitilde
 \OMS/cmsy/m/n/12 n\OT1/pcr/m/n/12 rbrack[][]\OMS/cmsy/m/n/12 n\TS1/pcr/m/n/12 $
@@ -658,40 +658,40 @@ Overfull \hbox (53.55003pt too wide) in paragraph at lines 35--71
  []
 
 
-Overfull \hbox (119.2002pt too wide) in paragraph at lines 35--71
+Overfull \hbox (119.2002pt too wide) in paragraph at lines 35--72
 []\OT1/cmtt/m/n/12 18 Wir, Miriam und Sebastian, freuen uns Dich hiermit zu uns
 erer 
  []
 
 
-Overfull \hbox (113.02519pt too wide) in paragraph at lines 35--71
+Overfull \hbox (113.02519pt too wide) in paragraph at lines 35--72
 []\OT1/cmtt/m/n/12 19 Hochzeit am Donnerstag den 22.07.2021 um 15:00 UTC+2 auf 
 der 
  []
 
 
-Overfull \hbox (88.32518pt too wide) in paragraph at lines 35--71
+Overfull \hbox (88.32518pt too wide) in paragraph at lines 35--72
 []\OT1/cmtt/m/n/12 20 Gjaidalm einzuladen. Bitte teile uns baldigst mit, ob Du 
 
  []
 
 
-Overfull \hbox (50.57521pt too wide) in paragraph at lines 35--71
+Overfull \hbox (50.57521pt too wide) in paragraph at lines 35--72
 []\OT1/cmtt/m/n/12 21 dabei sein m^^?ochtest.[][]\OMS/cmsy/m/n/12 nn[][] []\OT1
 /cmtt/m/n/12 lg(Miriam und Sebastian) [][]\OMS/cmsy/m/n/12 nn[] 
  []
 
 
-Overfull \hbox (158.52509pt too wide) in paragraph at lines 35--71
+Overfull \hbox (53.55003pt too wide) in paragraph at lines 35--72
 [][]\OT1/cmtt/m/n/12 22 [][]\OMS/cmsy/m/n/12 n\OT1/pcr/m/n/12 lbrack[][] []\OT1
 /cmtt/m/n/12 Gast@Hochzeit [][]\OMS/cmsy/m/n/12 n\OT1/pcr/m/n/12 textasciitilde
 \OMS/cmsy/m/n/12 n\OT1/pcr/m/n/12 rbrack[][]\OMS/cmsy/m/n/12 n\TS1/pcr/m/n/12 $
-[][] []\OT1/cmtt/m/n/12 viu enzian.png\\ 
+[]
  []
 
 
-Overfull \hbox (93.44997pt too wide) in paragraph at lines 35--71
-[][]\OT1/cmtt/m/n/12 28    [][]\OMS/cmsy/m/n/12 n\OT1/pcr/m/n/12 includegraphic
+Overfull \hbox (93.44997pt too wide) in paragraph at lines 35--72
+[][]\OT1/cmtt/m/n/12 29    [][]\OMS/cmsy/m/n/12 n\OT1/pcr/m/n/12 includegraphic
 s[][][[][]scale=2.000[][]]\OMS/cmsy/m/n/12 f\OT1/pcr/m/n/12 8bitEnzian.png\OMS/
 cmsy/m/n/12 ggg[] 
  []
@@ -722,7 +722,7 @@ Here is how much of TeX's memory you used:
 share/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texmf-dist/fonts/type1
 /public/amsfonts/cm/cmsy10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfon
 ts/cm/cmtt12.pfb></usr/share/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb>
-Output written on rueckseite.pdf (1 page, 37439 bytes).
+Output written on rueckseite.pdf (1 page, 37424 bytes).
 PDF statistics:
  60 PDF objects out of 1000 (max. 8388607)
  29 compressed objects within 1 object stream
