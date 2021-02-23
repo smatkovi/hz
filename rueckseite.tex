@@ -1,0 +1,76 @@
+\documentclass[12pt, a5paper]{article}
+\pagenumbering{gobble}
+\usepackage{xcolor}
+\addtolength{\oddsidemargin}{-.8in}
+\addtolength{\topmargin}{-1.00in}
+\textheight = 546pt
+
+\usepackage{float}
+\usepackage{graphicx}
+\usepackage{tgbonum}
+\pagecolor{white}
+\color{black}
+
+\usepackage[most]{tcolorbox}
+
+\tcbset{
+    frame code={}
+    center title,
+    left=0pt,
+    right=0pt,
+    top=0pt,
+    bottom=0pt,
+    colback=black!70,
+    colframe=white,
+    width fill,
+    enlarge left by=0mm,
+    boxsep=5pt,
+    arc=0pt,outer arc=0pt,
+    }
+\newcommand{\red}[1]{\textcolor{red}{#1}}
+\newcommand{\orange}[1]{\textcolor{orange}{#1}}
+
+\begin{document}
+\noindent
+{\fontfamily{pcr}\selectfont
+ \verb! 1 !\orange{\verb|\documentclass|}\verb![!\red{12pt, a5paper}\verb!]{article}!\\
+ \verb! 1 \pagenumbering{gobble}!\\
+ \verb! 2 \usepackage{xcolor}!\\
+ \verb! 3 \addtolength{\oddsidemargin}{-!\red{.5in}\verb!}!\\
+ \verb! 4 \addtolength{\topmargin}{-!\red{1.00in}\verb!}!\\
+ \verb! 5 \textheight = !\red{536pt}\\
+ \verb! 6!\\
+ \verb! 7 \usepackage{float}!\\
+ \verb! 8 \usepackage{graphicx}!\\
+ \verb! 9 \usepackage{tgbonum}!\\
+ \verb!10 \pagecolor{black}!\\
+ \verb!11 \color{green}!\\
+ \verb!12!\\
+ \verb!13 \begin{document}!\\
+ \verb!14 \noindent!\\
+ \verb!15 {\fontfamily{pcr}\selectfont!\\
+ \verb!16 \lbrack Gast@Hochzeit \textasciitilde\rbrack\$!\\
+ \verb!17 cat Hochzeit\_Miriam\_Sebastian.txt!\\
+ \verb!18 Wir, Miriam und Sebastian, freuen uns Dich hiermit zu unserer!\\
+ \verb!19 Hochzeit am Donnerstag den 22.07.2021 um 15:00 UTC+2 auf der!\\
+ \verb!20 Gjaidalm einzuladen. Bitte teile uns baldigst mit, ob Du!\\
+ \verb!21 dabei sein möchtest.\\ lg(Miriam und Sebastian) \\!\\
+ \verb!22 \lbrack Gast@Hochzeit \textasciitilde\rbrack\$ viu enzian.png\\!\\
+ \verb!23 \vspace*{-40px}!\\
+ \verb!24 \begin{figure}[H]!\\
+   \verb!25 \makebox[!\red{0pt}\verb!][l]{!\\
+   \verb!26 \hspace*{-!\red{0.5in}\verb!}!\\
+ \verb!27   \raisebox{-\totalheight}[!\red{0pt}\verb!][!\red{0pt}\verb!]{!\\
+   \verb!28   ┊ \includegraphics[!\red{scale=2.000}\verb!]{8bitEnzian.png}}}!\\
+ \verb!29 \end{figure}!\\
+ \verb!30 }!\\
+ \verb!31 \end{document}!\\
+ \mbox{}
+\vfill
+\begin{tcolorbox}
+\newcommand{\grey}{\color{grey}}
+1.5k einladung.tex tex\#s unix|utf-8
+\end{tcolorbox}
+
+}
+\end{document}
